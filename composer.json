@@ -1,0 +1,19 @@
+{
+  "name": "d1studio/php-command",
+  "description": "php-helper 是一个命令行基础模块",
+  "keywords": ["function", "php-helper","helper"],
+  "homepage": "http://www.d1studio.com/",
+  "type": "project",
+  "license": "BSD-3-Clause",
+  "support": {
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {"d1studio\\php_helper\\": "src/"}
+  }
+}
