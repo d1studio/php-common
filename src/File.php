@@ -8,6 +8,6 @@ class File{
      * @param $line      string 追加数据
      */
     public static function appendLine($file_name,$line){
-        file_put_contents($file_name, $line, FILE_APPEND | LOCK_EX);
+        file_put_contents($file_name, $line."\n", FILE_APPEND | LOCK_EX);
     }
 }
