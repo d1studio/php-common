@@ -1,7 +1,7 @@
-# php-helper
+# php-common
 
-*php-helper是一个工具包*
+*php-common包含一些可复用的php脚本*
 
 安装方式
 
-    composer require d1studio/php-helper
+    composer require d1studio/php-common
