@@ -1,11 +1,11 @@
 <?php
-namespace d1studio\php_helper;
+namespace d1studio\common\util;
 /**
  * 字符串处理助手类
  * Class String
  * @package d1studio\php_helper
  */
-class Str{
+class StringUtil{
     /**
      * 字段文字内容隐藏处理方法
      * @param $string

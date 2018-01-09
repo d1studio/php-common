@@ -1,10 +1,10 @@
 <?php
-namespace d1studio\php_helper;
+namespace d1studio\common\util;
 /**
  * 数字助手类
  * @author chengtao<751753158@qq.com>
  */
-class Number{
+class NumberUtil{
     /**
      * 对字节格式化
      * @param  int    $byte

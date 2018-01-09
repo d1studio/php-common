@@ -1,7 +1,7 @@
 <?php
-namespace d1studio\php_helper;
+namespace d1studio\common\util;
 
-class File{
+class FileUtil{
     /**
      * 向文件追加一行的方法，需要锁定文件并且追加内容
      * @param $file_name string 文件名

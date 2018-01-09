@@ -1,7 +1,7 @@
 {
-    "name": "d1studio/php-helper",
-    "description": "php-helper 是一个命令行基础模块",
-    "keywords": ["function", "php-helper","helper"],
+    "name": "d1studio/php-common",
+    "description": "php-common 是一个常用的PHP库",
+    "keywords": ["function", "php-common","helper"],
     "homepage": "https://github.com/d1studio/php-helper",
     "type": "library",
     "license": "BSD-3-Clause",
@@ -14,6 +14,6 @@
     "require-dev": {
     },
     "autoload": {
-        "psr-4": {"d1studio\\php_helper\\": "src/"}
+        "psr-4": {"d1studio\\php_common\\": "src/"}
     }
 }

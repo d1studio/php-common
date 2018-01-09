@@ -1,10 +1,10 @@
 <?php
-namespace d1studio\php_helper;
+namespace d1studio\common\util;
 /**
  * 时间helper
  * @author chengtao<chengtao@51cto.com>
  */
-class Time{
+class TimeUtil{
     /**
      * 获取时间,精度毫秒
      * @return float
