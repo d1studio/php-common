@@ -1,0 +1,8 @@
+<phpunit bootstrap="./bootstrap.php">
+    <testsuites>
+        <testsuite name="controllers">
+
+            <file>./unit/RedisQueueTest.php</file>
+        </testsuite>
+    </testsuites>
+</phpunit>
