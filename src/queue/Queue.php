@@ -5,8 +5,8 @@
 
 namespace d1studio\common\queue;
 
-use d1studio\php_queue\drives\MysqlQueue;
-use d1studio\php_queue\drives\RedisQueue;
+use d1studio\common\queue\drives\MysqlQueue;
+use d1studio\common\queue\drives\RedisQueue;
 
 /**
  * 队列接口
