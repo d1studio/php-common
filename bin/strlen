@@ -1,0 +1,7 @@
+#!/usr/bin/env php
+<?php
+
+
+
+echo strlen($argv[1]).PHP_EOL;
+

@@ -9,7 +9,11 @@
         "email" : "751753158@qq.com"
     },
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.4.0",
+        "wujunze/php-cli-color": "^2.4"
+    },
+    {
+        "bin": ["bin/strlen"]
     },
     "require-dev": {
     },
