@@ -12,9 +12,9 @@
         "php": ">=5.4.0",
         "wujunze/php-cli-color": "^2.4"
     },
-    {
-        "bin": ["bin/strlen"]
-    },
+    "bin": [
+          "bin/strlen"
+    ],
     "require-dev": {
     },
     "autoload": {
